@@ -1,1 +1,2 @@
 https://github.com/marshui/upload.git
+https://github.com/marshui/shop.git
